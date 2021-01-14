@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzJGWD/ZsVKwRHud+qnP7CuMTues3hD46N6DSZpW6St93BK5EaX0r/HOPar2AgX1Oa2ek36tLCY427aFad+Nhg==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plini\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

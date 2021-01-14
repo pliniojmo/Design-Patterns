@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMYSkwuG/wNx2/jfOK15Z/Qgdqv+VuTOPE12Ve6Q5l5Ir6lh1JiGYGosW+AuBkgBbD4Ajx7N7Au8kXMvQ9OZsg==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\DesignPatternSamples-main\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plini\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\plini\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\plini\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
